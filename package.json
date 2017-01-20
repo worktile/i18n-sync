@@ -1,0 +1,29 @@
+{
+  "name": "i18n-sync",
+  "version": "1.0.0",
+  "description": "used for multilingual synchronization",
+  "main": "i18n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worktile/i18n-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worktile/i18n-sync/issues"
+  },
+  "bin": {
+    "i18n-sync": "bin/i18n.js"
+  },
+  "homepage": "https://github.com/worktile/i18n-sync#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "glob": "^7.1.1",
+    "inquirer": "^2.0.0",
+    "lodash": "^4.17.4",
+    "validator": "^6.2.1"
+  }
+}
