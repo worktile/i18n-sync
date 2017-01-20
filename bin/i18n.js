@@ -9,7 +9,7 @@ const fs           = require('fs');
 let otherLanguages = ['ja-jp', 'en-us', 'zh-tw'];
 let stringifySpace = 2;
 const config       = {
-    version: "0.0.1",
+    version: "1.0.0",
     usage: '<env> [options]',
     options: [
         {
