@@ -6,7 +6,7 @@ const _            = require('lodash');
 const glob         = require('glob');
 const path         = require('path');
 const fs           = require('fs');
-let otherLanguages = ['ja-jp', 'en-us', 'zh-tw'];
+let otherLanguages = ['ja-jp', 'en-us', 'zh-tw','de','ko'];
 let stringifySpace = 2;
 const config       = {
     version: "1.0.0",
